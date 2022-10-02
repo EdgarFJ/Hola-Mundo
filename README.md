@@ -1,2 +1,2 @@
-# Hola-Mundo
+# Hola_Mundo
 Repositorio de prueba
